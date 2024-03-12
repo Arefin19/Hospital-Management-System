@@ -18,7 +18,7 @@ void edit();
 void del();
 int main()
 {
-    system("COLOR 80");
+    system("COLOR 9F");
     read();
     int c,i,q;
     printf("\t\tWelcome to SPS general hospital\n");
